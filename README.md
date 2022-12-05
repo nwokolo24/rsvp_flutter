@@ -8,15 +8,26 @@ This project demonstrates how firebase connects seamlessly with flutter applicat
 You will see this in action with the aid of an RSVP business logic that helps people participate in exciting trips to the temple near them.
 
 ## YouTube Video
-Here is a [link]() to watch a demonstration of this RSVP application in action.
+Here is a [link](https://youtu.be/gJefef-eabI) to watch a demonstration of this RSVP application in action.
 
 ## Tech Stack
-- [Flutter]()
-- [Dart]()
-- [Google Firebase Database]()
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/get-dart)
+- [Google Firebase Database](https://cloud.google.com/firestore/docs/client/get-firebase)
 - Android Studio/VS Code
 
 ## Reference(s)
 - [Get to know Firebase for flutter](https://firebase.google.com/codelabs/firebase-get-to-know-flutter#0)
 
 ## Picture Time
+UIs
+
+![UI](UI.png)
+![UI](UI2.png)
+![UI](UI3.png)
+
+Some Code snippets
+![Code snippets](codesnip1.png)
+![Code snippets](codesnip2.png)
+![Code snippets](codesnip3.png)
+![Code snippets](codesnip4.png)
